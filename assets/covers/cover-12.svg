@@ -69,12 +69,5 @@
 <rect x="915" y="104" width="6" height="6" rx="1.5" fill="#EDEDED" fill-opacity="0.15006623148249595"/>
 <rect x="1004" y="398" width="4" height="4" rx="1.5" fill="#EDEDED" fill-opacity="0.20961928910532368"/>
 <rect x="235" y="219" width="3" height="3" rx="1.5" fill="#EDEDED" fill-opacity="0.15681212950378048"/>
-<g opacity="0.9"><rect x="890" y="56" width="254" height="54" rx="16" fill="#11151B" fill-opacity="0.65" stroke="#EDEDED" stroke-opacity="0.10"/><text x="914" y="91" fill="#EDEDED" fill-opacity="0.78" font-size="18" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial">Банк Проксима</text></g>
 
-        <g>
-          <rect x="72" y="441" width="624" height="126" rx="22" fill="#11151B" fill-opacity="0.75" stroke="#EDEDED" stroke-opacity="0.10"/>
-          <text x="108" y="491" fill="#EDEDED" font-size="44" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial" font-weight="800">Рассрочка vs кредит: где ловушка</text>
-          <text x="108" y="529" fill="#EDEDED" fill-opacity="0.70" font-size="22" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial">PROXIMA · MEDIA</text>
-        </g>
-        
 </svg>

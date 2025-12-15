@@ -69,12 +69,5 @@
 <rect x="461" y="97" width="3" height="3" rx="1.5" fill="#EDEDED" fill-opacity="0.24128758735438782"/>
 <rect x="474" y="553" width="6" height="6" rx="1.5" fill="#EDEDED" fill-opacity="0.12495309979581176"/>
 <rect x="1097" y="309" width="4" height="4" rx="1.5" fill="#EDEDED" fill-opacity="0.19538671046960288"/>
-<g opacity="0.9"><rect x="890" y="56" width="254" height="54" rx="16" fill="#11151B" fill-opacity="0.65" stroke="#EDEDED" stroke-opacity="0.10"/><text x="914" y="91" fill="#EDEDED" fill-opacity="0.78" font-size="18" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial">Банк Проксима</text></g>
 
-        <g>
-          <rect x="72" y="441" width="624" height="126" rx="22" fill="#11151B" fill-opacity="0.75" stroke="#EDEDED" stroke-opacity="0.10"/>
-          <text x="108" y="491" fill="#EDEDED" font-size="44" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial" font-weight="800">Кредитка: друг, враг или просто инструмент?</text>
-          <text x="108" y="529" fill="#EDEDED" fill-opacity="0.70" font-size="22" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial">PROXIMA · MEDIA</text>
-        </g>
-        
 </svg>
