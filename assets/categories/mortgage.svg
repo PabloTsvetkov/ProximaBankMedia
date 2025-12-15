@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" fill="none">
+
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF4D1A" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#00E5FF" stop-opacity="0.85"/>
+    </linearGradient>
+    <radialGradient id="g2" cx="0.25" cy="0.2" r="1">
+      <stop offset="0" stop-color="#00E5FF" stop-opacity="0.55"/>
+      <stop offset="0.55" stop-color="#FF4D1A" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#0B0D10" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" stroke="#EDEDED" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+<rect width="800" height="500" fill="#0B0D10"/>
+<rect width="800" height="500" fill="url(#g2)"/>
+<rect width="800" height="500" fill="url(#grid)"/>
+<path d="M300 248 L-24 307" stroke="#FF4D1A" stroke-opacity="0.11473151169201128" stroke-width="3"/>
+<path d="M574 451 L539 383" stroke="#00E5FF" stroke-opacity="0.12111391636784864" stroke-width="1"/>
+<path d="M727 20 L735 36" stroke="#00E5FF" stroke-opacity="0.10019625560469775" stroke-width="1"/>
+<path d="M142 431 L451 425" stroke="#FF4D1A" stroke-opacity="0.08124380458277018" stroke-width="3"/>
+<path d="M681 302 L904 368" stroke="#00E5FF" stroke-opacity="0.14965559368471865" stroke-width="1"/>
+<path d="M350 473 L126 522" stroke="#00E5FF" stroke-opacity="0.08345925746209167" stroke-width="3"/>
+<path d="M184 250 L208 289" stroke="#FF4D1A" stroke-opacity="0.16318185696326526" stroke-width="3"/>
+<path d="M6 37 L-33 -40" stroke="#00E5FF" stroke-opacity="0.17546533763641858" stroke-width="1"/>
+<path d="M38 274 L363 385" stroke="#00E5FF" stroke-opacity="0.12527713433091192" stroke-width="2"/>
+<path d="M33 112 L371 357" stroke="#FF4D1A" stroke-opacity="0.13855310698641346" stroke-width="2"/>
+<path d="M527 181 L461 342" stroke="#00E5FF" stroke-opacity="0.17770719636765966" stroke-width="1"/>
+<path d="M165 234 L582 -3" stroke="#00E5FF" stroke-opacity="0.10135165358745381" stroke-width="1"/>
+<path d="M2 453 L-52 637" stroke="#FF4D1A" stroke-opacity="0.15793376669642611" stroke-width="1"/>
+<path d="M644 439 L1041 527" stroke="#00E5FF" stroke-opacity="0.11051527776366729" stroke-width="1"/>
+<circle cx="569" cy="201" r="163" stroke="url(#g1)" stroke-width="3.5" stroke-opacity="0.55"/>
+<circle cx="569" cy="201" r="145" stroke="#EDEDED" stroke-width="1" stroke-opacity="0.08"/>
+<circle cx="148" cy="241" r="71" fill="#FF4D1A" fill-opacity="0.12066156655825858" filter="url(#glow)"/>
+<circle cx="369" cy="242" r="107" fill="#00E5FF" fill-opacity="0.24489778386648287" filter="url(#glow)"/>
+<circle cx="561" cy="392" r="52" fill="#FF4D1A" fill-opacity="0.20118398462828252" filter="url(#glow)"/>
+<circle cx="652" cy="387" r="78" fill="#00E5FF" fill-opacity="0.1451336636116086" filter="url(#glow)"/>
+<circle cx="660" cy="319" r="25" fill="#FF4D1A" fill-opacity="0.21643803821006927" filter="url(#glow)"/>
+<circle cx="300" cy="171" r="19" fill="#00E5FF" fill-opacity="0.1739118340562775" filter="url(#glow)"/>
+<circle cx="325" cy="360" r="52" fill="#FF4D1A" fill-opacity="0.290081927571707" filter="url(#glow)"/>
+<circle cx="573" cy="415" r="109" fill="#00E5FF" fill-opacity="0.12547606753338045" filter="url(#glow)"/>
+<circle cx="669" cy="114" r="100" fill="#FF4D1A" fill-opacity="0.24949219296371178" filter="url(#glow)"/>
+<circle cx="592" cy="350" r="89" fill="#00E5FF" fill-opacity="0.2429006956061765" filter="url(#glow)"/>
+<rect x="742" y="75" width="6" height="6" rx="1.5" fill="#EDEDED" fill-opacity="0.21588580124861959"/>
+<rect x="197" y="145" width="6" height="6" rx="1.5" fill="#EDEDED" fill-opacity="0.24103729540920957"/>
+<rect x="283" y="267" width="4" height="4" rx="1.5" fill="#EDEDED" fill-opacity="0.22705423210376668"/>
+<rect x="654" y="379" width="4" height="4" rx="1.5" fill="#EDEDED" fill-opacity="0.15827902457147328"/>
+<rect x="652" y="70" width="3" height="3" rx="1.5" fill="#EDEDED" fill-opacity="0.21634962099070346"/>
+<rect x="597" y="362" width="6" height="6" rx="1.5" fill="#EDEDED" fill-opacity="0.2480161263540276"/>
+<rect x="346" y="230" width="5" height="5" rx="1.5" fill="#EDEDED" fill-opacity="0.14210797047112717"/>
+<rect x="84" y="404" width="3" height="3" rx="1.5" fill="#EDEDED" fill-opacity="0.2101186383877644"/>
+<rect x="239" y="197" width="5" height="5" rx="1.5" fill="#EDEDED" fill-opacity="0.14134302339724505"/>
+<rect x="581" y="331" width="5" height="5" rx="1.5" fill="#EDEDED" fill-opacity="0.19629953166049552"/>
+<rect x="479" y="57" width="3" height="3" rx="1.5" fill="#EDEDED" fill-opacity="0.23309543301190866"/>
+<rect x="425" y="102" width="4" height="4" rx="1.5" fill="#EDEDED" fill-opacity="0.26826658690381633"/>
+<rect x="721" y="139" width="3" height="3" rx="1.5" fill="#EDEDED" fill-opacity="0.16316617500895747"/>
+<rect x="534" y="298" width="3" height="3" rx="1.5" fill="#EDEDED" fill-opacity="0.15599879299945532"/>
+<rect x="302" y="63" width="6" height="6" rx="1.5" fill="#EDEDED" fill-opacity="0.15618432994150688"/>
+<rect x="605" y="57" width="5" height="5" rx="1.5" fill="#EDEDED" fill-opacity="0.2571102825779415"/>
+<rect x="638" y="162" width="6" height="6" rx="1.5" fill="#EDEDED" fill-opacity="0.12535897016621614"/>
+<rect x="560" y="146" width="5" height="5" rx="1.5" fill="#EDEDED" fill-opacity="0.2123840401842177"/>
+<g opacity="0.9"><rect x="490" y="56" width="254" height="54" rx="16" fill="#11151B" fill-opacity="0.65" stroke="#EDEDED" stroke-opacity="0.10"/><text x="514" y="91" fill="#EDEDED" fill-opacity="0.78" font-size="18" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial">Банк Проксима</text></g>
+
+        <g>
+          <rect x="48" y="350" width="416" height="100" rx="22" fill="#11151B" fill-opacity="0.75" stroke="#EDEDED" stroke-opacity="0.10"/>
+          <text x="72" y="390" fill="#EDEDED" font-size="44" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial" font-weight="800">Ипотека</text>
+          <text x="72" y="420" fill="#EDEDED" fill-opacity="0.70" font-size="22" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial">РУБРИКА</text>
+        </g>
+        
+</svg>
